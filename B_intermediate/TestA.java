@@ -3,7 +3,7 @@
 // class: Keyword to define a class in Java. A class is like a blueprint for creating Java programs or objects.
 // HelloWorld: This is the name of the class. It should match the filename (HelloWorld.java).
 
-public class HelloWorld {
+public class TestA {
 
     //public: The method is visible to the JVM (Java Virtual Machine) from outside the class.
     /*static: It means this method belongs to the class itself, not to an object of the class.
